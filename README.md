@@ -47,6 +47,6 @@ Here is a comprehensive list of all roles available under the Paradigma Digital 
 * [java-check-requirements](https://github.com/paradigmadigital/java-check-requirements): Check java requirements
 
 ### Python
-* [java-check-requirements](https://github.com/paradigmadigital/python-check-requirements): Check python requirements
+* [python-check-requirements](https://github.com/paradigmadigital/python-check-requirements): Check python requirements
 
 ## Playbooks
