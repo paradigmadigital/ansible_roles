@@ -50,3 +50,4 @@ Here is a comprehensive list of all roles available under the Paradigma Digital 
 * [python-check-requirements](https://github.com/paradigmadigital/python-check-requirements): Check python requirements
 
 ## Playbooks
+* [programansible](https://github.com/paradigmadigital/programansible): A python class to call Ansible programatically
