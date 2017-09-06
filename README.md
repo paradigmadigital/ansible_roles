@@ -9,13 +9,13 @@ Here is a comprehensive list of all roles available under the Paradigma Digital 
 ## Deploy
 
 ### epel
-* [epel](https://github.com/ansible/epel): Install epel based on the instructions of [setup.ius](https://setup.ius.io/)
+* [epel](https://github.com/paradigmadigital/epel): Install epel based on the instructions of [setup.ius](https://setup.ius.io/)
 
 ### ius
-* [ius](https://github.com/ansible/ius): Install ius based on the instructions of [setup.ius](https://setup.ius.io/)
+* [ius](https://github.com/paradigmadigital/ius): Install ius based on the instructions of [setup.ius](https://setup.ius.io/)
 
 ### PHP7
-* [php7](https://github.com/ansible/php7): Install php7
+* [php7](https://github.com/paradigmadigital/php7): Install php7
 
 ### Klar
 * [klar](https://github.com/paradigmadigital/klar): Install klar binary, a [Clair](https://github.com/coreos/clair/) client
