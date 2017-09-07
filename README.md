@@ -46,6 +46,11 @@ Here is a comprehensive list of all roles available under the Paradigma Digital 
 ### Java
 * [java-check-requirements](https://github.com/paradigmadigital/java-check-requirements): Check java requirements
 
+### OS
+* [add-deb-repo](https://github.com/paradigmadigital/add-deb-repo): Add deb repository
+* [add-logrotate-rule](https://github.com/paradigmadigital/add-logrotate-rule): Add logrotate rule
+* [thp](https://github.com/paradigmadigital/thp): Disable Transparent Huge Pages
+
 ### Python
 * [python-check-requirements](https://github.com/paradigmadigital/python-check-requirements): Check python requirements
 
