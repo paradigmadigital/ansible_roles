@@ -54,5 +54,8 @@ Here is a comprehensive list of all roles available under the Paradigma Digital 
 ### Python
 * [python-check-requirements](https://github.com/paradigmadigital/python-check-requirements): Check python requirements
 
+### SSH
+* [ssh-tofu](https://github.com/paradigmadigital/ansible_role_ssh-tofu): Add unknown ssh server keys to your known_hosts
+
 ## Playbooks
 * [programansible](https://github.com/paradigmadigital/programansible): A python class to call Ansible programatically
